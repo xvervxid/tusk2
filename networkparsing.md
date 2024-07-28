@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 
 
 ifconfig
@@ -10,3 +10,5 @@ ip rule
 ufw status verbose
 
 last -n 5
+
+echo "Hello, Nekit"
